@@ -1,0 +1,2 @@
+git commit -m "Este es mi aporte al repositorio por medio de commit"
+git push origin main 
