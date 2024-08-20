@@ -1,2 +1,2 @@
 # DEVACK
-Un equipo de DEVelopers y hACKers
+Un equipo de DEVelopers y HACKers
